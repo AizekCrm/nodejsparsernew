@@ -1,0 +1,9 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Aizek",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
+}
